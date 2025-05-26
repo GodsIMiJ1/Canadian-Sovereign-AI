@@ -60,28 +60,10 @@ At its core, DataOps Terminal features an intelligent chat agent (GPT-4o) that r
 - **Developer Article:** *DataOps Terminal — AI-Powered Command Center for Web Data* (add link)
 - **Video Demo:** *YouTube Demo* (add link)
 
----
-
-### 🖼️ Screenshot Suggestions
-
-- **Homepage Interface:**  
-  Show the main dashboard and AI chat agent in action.
-
-- **Terminal Interface:**  
-  Demonstrate direct command input and real-time responses.
-
-- **Data Extraction Process:**  
-  Visualize live scraping, data presentation, and task automation.
-
-- **Offline Mode:**  
-  Illustrate the local Ollama version running without internet.
-
----
 
 **DataOps Terminal stands as a next-generation solution for AI-driven data operations—bridging the gap between human intent and web-scale data, with resilience, speed, and developer autonomy at its core.**
 
 Citations:
 [1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/57801070/8a54de3b-57df-41c0-bb03-b84bce48a0f6/paste.txt
 
----
-Answer from Perplexity: pplx.ai/share
+
